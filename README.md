@@ -29,4 +29,5 @@ If you have a question about using Jekyll, start a discussion on the [Jekyll For
 
 
 https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-title
+https://github.com/mmistakes/minimal-mistakes/tree/master/test/_posts
 
