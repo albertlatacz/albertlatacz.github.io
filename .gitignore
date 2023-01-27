@@ -16,3 +16,5 @@ secrets_*.env
 /dynamodb_data/
 out.txt
 /docs/src/site/
+_site
+Gemfile.lock
