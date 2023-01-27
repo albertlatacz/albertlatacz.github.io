@@ -58,13 +58,8 @@ plugins:
 author:
   name   : "Albert Latacz"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : >- 
-    Passionate about mono-repositories, co-founder of [Monopolis](https://monopolis.cloud/) – 
-    tooling platform that makes development easier for teams. 
-    
-    <br/><br/>I help teams to 
-    deliver solid software with emphasis on lean and incremental approach, pragmatic programming 
-    principles and value delivery without compromising on quality.
+  bio    : >-
+    Enthusiastic and open minded, hands-on engineering lead with experience in building software systems that work.
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
