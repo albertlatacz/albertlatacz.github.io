@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Making software happen...
 email: info@talk2duck.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   Albert Latacz - An enthusiastic and open minded hands-on agile lead with extensive experience in building software systems that work.
 twitter_username: albertlatacz
 github_username: albertlatacz
@@ -25,6 +25,7 @@ search: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -61,27 +62,33 @@ author:
   bio    : >-
     Enthusiastic and open minded hands-on agile lead with extensive experience in building software systems that work.
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://talk2duck.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/albertlatacz"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/albertlatacz"
-
-footer:
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://talk2duck.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/albertlatacz"
+    - label: "Talk 2 Duck"
+      icon: "fas fa-fw fa-link"
+      url: "https://talk2duck.com"
+    - label: "Monopolis"
+      icon: "fas fa-fw fa-link"
+      url: "https://monopolis.cloud"
+
+footer:
+  links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/albertlatacz"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://twitter.com/albertlatacz"
+    - label: "Talk 2 Duck"
+      icon: "fas fa-fw fa-link"
+      url: "https://talk2duck.com"
+    - label: "Monopolis"
+      icon: "fas fa-fw fa-link"
+      url: "https://monopolis.cloud"
 
 defaults:
   # _posts
