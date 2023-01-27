@@ -16,7 +16,7 @@
 title: Making software happen...
 email: info@talk2duck.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Albert Latacz - An enthusiastic and open minded hands-on agile lead extensive experience in building software systems that work.
+  Albert Latacz - An enthusiastic and open minded hands-on agile lead with extensive experience in building software systems that work.
 twitter_username: albertlatacz
 github_username: albertlatacz
 minimal_mistakes_skin: default
@@ -59,7 +59,7 @@ author:
   name   : "Albert Latacz"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : >-
-    Enthusiastic and open minded, hands-on engineering lead with experience in building software systems that work.
+    Enthusiastic and open minded hands-on agile lead with extensive experience in building software systems that work.
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
