@@ -7,6 +7,24 @@ Enthusiastic and open-minded, hands-on engineering lead with experience in build
 I have been recently passionate about mono-repositories and anything to improve developer experience. Co-founded Monopolis – Internal Developer Portal SaaS, with a strong focus on automating best practices to improve developer, team and organisational productivity.
 
 
+---
+
+### COUNTERPARTY EXPOSURE MANAGEMENT PLATFORM - RBS
+_May 2011 – Nov 2011_
+
+{: .text-justify}
+Cremant is a credit risk calculation platform that provides global CEM desk with exposures and associated measures 
+(e.g. sensitivity, PnL, CVA, FVA, DVA, WWR) for specified counterparties. The system consists of three main tiers: 
+frontend C# client, SOA services and DataSynapse calculation grid, all backed by Sybase database. The services have been 
+implemented using Java clustered with Coherence, internally communicating over RMI and exposed over JMX, WSDL and SOAP.
+
+As a lead developer I worked closely with quantitative and business analysts and was responsible for delivery of two 
+core projects: collateral calculation modelling, which involved implementing quantitative models for calculating 
+collateral (e.g. local/hard currency collateral, independent amounts), and credit curve explosion, which aim was to 
+generate different pricing curves based on counterparty rating and liquidity factors. Projects required changes to 
+calculation engine as well as exposing relevant operations and data to the client over web services and to reporting 
+module over JMS.
+
 
 ---
 
