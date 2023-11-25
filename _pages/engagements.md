@@ -9,6 +9,21 @@ I have been recently passionate about mono-repositories and anything to improve 
 
 ---
 
+### ADVERT RETARGETING PLATFORM - VIBRANT MEDIA
+_Nov 2009 – May 2010_
+
+Established in 2000, Vibrant Media is a contextual media pioneer and leading provider of contextual video advertising. 
+I was working on extending In-Text platform, that serves contextually relevant advertisements to over 100 million user 
+world wide. The system was developed using JavaSE making use of NIO and concurrency framework and deployed onto 200 
+Tomcat servers clustered in three geo-locations, backed by MicrosoftSQL/MySQL databases. I was responsible for 
+implementing user retargeting module, which was used in behavioural profile analysis to improve revenue by retargeting 
+delivery of campaigns at users with specific profile characteristics. Due to high load and aggressive time constraints 
+on delivery of inventory, the project had been developed with particular emphasis on performance and thoroughly tested 
+with unit, regression and performance test.
+
+
+---
+
 ### MOBILE SPREAD BETTING PLATFORM - IG INDEX
 _Jan 2008 – Nov 2009_
 
