@@ -12,6 +12,7 @@ I have been recently passionate about mono-repositories and anything to improve 
 ### ADVERT RETARGETING PLATFORM - VIBRANT MEDIA
 _Nov 2009 – May 2010_
 
+{: .text-justify}
 Established in 2000, Vibrant Media is a contextual media pioneer and leading provider of contextual video advertising. 
 I was working on extending In-Text platform, that serves contextually relevant advertisements to over 100 million user 
 world wide. The system was developed using JavaSE making use of NIO and concurrency framework and deployed onto 200 
