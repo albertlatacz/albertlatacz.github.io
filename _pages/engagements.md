@@ -12,7 +12,7 @@ and value delivery without compromising on quality. Here are some details of pre
 ---
 
 ### EQUITY RISK PLATFORM - CITI
-_November 2021 - Jul 2023_
+_November 2021 - June 2023_
 
 {: .text-justify}
 The Ariane program aims to re-architect and modernise Citi’s Equity Risk platform for live and end-of-day risk across 
@@ -58,7 +58,7 @@ Council.
 ---
 
 ### TECHNOLOGY ASSESSMENT FOR DELIVERY TRANSFORMATION - THAMES WATER
-_Nov 2020 - Dec 2020_
+_November 2020 - December 2020_
 
 {: .text-justify}
 Rapid Delivery Transformation programme was a Thames Water effort to improve efficiency of delivery teams. 
@@ -74,7 +74,7 @@ delivery process in several groups with varying delivery models and agile maturi
 ---
 
 ### STRONG CUSTOMER AUTHENTICATION AND APPLICATION SECURITY - BÓ (NATWEST)
-_Apr 2018 - Oct 2020_
+_April 2018 - October 2020_
 
 {: .text-justify}
 Bó was a Natwest initiative to create current account companion app that helps customers to manage money better. 
@@ -98,7 +98,7 @@ project was delivered meeting bank-level security requirements.
 ---
 
 ### AEI & FATCA REPORTING PLATFORM - CREDIT SUISSE
-_May 2017 – Apr 2018_
+_May 2017 – April 2018_
 
 {: .text-justify}
 Fondue team was a core part of Credit Suisse Big Data initiative. The main objective for the team is to bullet-trace 
@@ -113,7 +113,7 @@ basis for trade recommendation engine.
 ---
 
 ### FOUNDER - IGNECO
-_Jul 2016 – Apr 2017_
+_July 2016 – April 2017_
 
 {: .text-justify}
 Building out technology foundation in early stage start-up. Waggol is a mobile first activity marketplace aggregating 
@@ -130,7 +130,7 @@ and deployed to Amazon Web Services.
 ---
 
 ### BIG DATA PLATFORM - ELSEVIER
-_Feb 2016 – Jun 2016_
+_February 2016 – June 2016_
 
 {: .text-justify}
 Working on Link Expansion project, which is a part of Elsevier's Big Data department. Elsevier is academic publishing 
@@ -143,7 +143,7 @@ pipelines and deployment of services using Jenkins, JobBuilder and Terraform.
 ---
 
 ### TRADING SYSTEMS - THEOREM TECHNOLOGY
-_Jun 2014 – Nov 2015_
+_June 2014 – November 2015_
 
 {: .text-justify}
 Leading team of five in custodial and trading department at Solo Capital Partners and then Theorem Technology. Theorem 
@@ -158,7 +158,7 @@ some systems being continuously deployed to production.
 ---
 
 ### PRICING POLICY AND FUNDING NAME GENERATION - DEUTSCHE BANK
-_Jul 2013 – Jun 2014_
+_July 2013 – June 2014_
 
 {: .text-justify}
 The platform aimed at reducing and optimising collateral cost and exposure across the bank. System consisted of three 
@@ -172,7 +172,7 @@ Policy systems, contribute to design, participate in planning session and run re
 ---
 
 ### PRIORITY MOMENTS - O2 (TELEFONICA)
-_Feb 2013 – Jul 2013_
+_February 2013 – July 2013_
 
 {: .text-justify}
 The Priority Moments is a service that provides users with means to redeem location-specific voucher codes and offers 
@@ -189,7 +189,7 @@ establishing paring culture within the team which helped to decrease friction in
 ---
 
 ### BROADBAND PROVISIONING SERVICE - SKY
-_May 2011 – Feb 2013_
+_May 2011 – February 2013_
 
 {: .text-justify}
 The team was responsible for developing Halo and FTTC systems which purpose is to automate provisioning workflow for 
@@ -214,7 +214,7 @@ node.js and PhoneGap.
 ---
 
 ### COUNTERPARTY EXPOSURE MANAGEMENT PLATFORM - RBS
-_May 2011 – Nov 2011_
+_May 2011 – November 2011_
 
 {: .text-justify}
 Cremant is a credit risk calculation platform that provides global CEM desk with exposures and associated measures 
@@ -263,7 +263,7 @@ month of trading.
 ---
 
 ### ADVERT RETARGETING PLATFORM - VIBRANT MEDIA
-_Nov 2009 – May 2010_
+_November 2009 – May 2010_
 
 {: .text-justify}
 Established in 2000, Vibrant Media is a contextual media pioneer and leading provider of contextual video advertising. 
@@ -279,7 +279,7 @@ with unit, regression and performance test.
 ---
 
 ### MOBILE SPREAD BETTING PLATFORM - IG INDEX
-_Jan 2008 – Nov 2009_
+_January 2008 – November 2009_
 
 {: .text-justify}
 IG Index, founded in 1974, was the first financial spread betting company in Britain, and is today the leading operation 
@@ -303,7 +303,7 @@ integration server and helped detecting several, critical issues prior release t
 ---
 
 ### TEXT RELAY SERVICE - DSPG TELECOM 
-_Jul 2004 – Dec 2007_ 
+_July 2004 – December 2007_ 
 
 {: .text-justify}
 Established in 1988, DSPG is an ISO 9001 registered company specialising in Digital Signal Processing (DSP) and 
