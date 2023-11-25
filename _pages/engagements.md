@@ -7,6 +7,34 @@ Enthusiastic and open-minded, hands-on engineering lead with experience in build
 I have been recently passionate about mono-repositories and anything to improve developer experience. Co-founded Monopolis – Internal Developer Portal SaaS, with a strong focus on automating best practices to improve developer, team and organisational productivity.
 
 
+
+---
+
+### OTC PRODUCT LIFECYCLE MANAGEMENT PLATFORM - UBS
+_May 2010 – May 2011_
+
+{: .text-justify}
+Klondike is a product lifecycle management platform, which core functionality is processing securitised and OTC product 
+lifecycle events such as product creation, amendments, trades, barrier breaches, corporate actions and expirations and 
+dispatching them to front and back office systems. The system is also acts as a source for product and trade information 
+and is responsible for settlement valuation for expirations, early exercises, batch processing of corporate action 
+adjustments as well as syndication of financial reports and barrier breach events to external parties. In terms of 
+technology Klondike has been implemented using Tomcat with Lucene/Compass searching, Webwork, XWork and FreeMarker, 
+backed by Oracle database. The team was fully agile/XP and put particular emphasis on delivering high quality software. 
+Daily pair programming sessions, use of test driven development and maintaining test coverage with over 12,000 unit, 
+integration and acceptance tests allowed team to produce to the highest standards.
+
+I was working on building Barrier Breach Syndication Service, which captures barrier breach events received from 
+monitoring system and syndicates them to third parties using various transport protocols such as S/FTP, HTTP/S, 
+SCP or email. The service has been deployed on Tomcat server and is currently syndicating events to 6 external vendors.
+
+I was responsible for delivery of core components for Mass Issuance project. The main goal of the project was to allow 
+mass issuing and straight trough processing of leveraged (Warrants, Mini-Futures) and yield enhancement 
+(Discount Certificates) products across German and Swiss exchanges. The work included booking product to risk and 
+settlement systems, implementing expiration, early exercise and corporate action calculations as well as optimising 
+batch processing. After successful delivery UBS gained 1% market share on Swiss and German exchanges within the first 
+month of trading.
+
 ---
 
 ### ADVERT RETARGETING PLATFORM - VIBRANT MEDIA
