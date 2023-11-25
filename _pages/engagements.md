@@ -9,6 +9,30 @@ I have been recently passionate about mono-repositories and anything to improve 
 
 ---
 
+### BROADBAND PROVISIONING SERVICE - SKY
+_May 2011 – Feb 2013_
+
+{: .text-justify}
+The team was responsible for developing Halo and FTTC systems which purpose is to automate provisioning workflow for 
+voice and broadband (DSL and fibreoptic) services. The systems are implemented using core Java, Tomcat and communicate 
+with dowstream systems via ActiveMQ and REST. The team is fully agile/XP with high emphasis on quality of delivery 
+achieved through pair-programming and several layers of testing covering acceptance, contract, integration and 
+performance. The tests had been written in Concordion and are currently being ported to more refactorable open source 
+framework called Yatspec.
+
+I was significantly involved in design and implementation of order event feed service, which main goals were to provide 
+strangler pattern over legacy schema to allow refactoring as well as to expose order processing data to support and 
+reporting systems. I was also driving refactoring efforts towards simplifying message handlers by introducing more 
+concise rule matching engine and separating provisioning of different products into stand-alone systems.
+
+I have organised hands-on brown bag session “Clojure Testdrive”, which presented high level overview of Clojure 
+programming language and gave opportunity to use it to solve several example problems. I have also proposed idea and 
+participated in a hackday, for which my pairing partner and I have implemented mobile broadband speed checker using 
+node.js and PhoneGap.
+
+
+---
+
 ### COUNTERPARTY EXPOSURE MANAGEMENT PLATFORM - RBS
 _May 2011 – Nov 2011_
 
