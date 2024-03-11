@@ -15,7 +15,7 @@ and value delivery without compromising on quality. Here are some details of pre
 _June 2023 - present_
 
 {: .text-justify}
-Air up (funded in 2018, https://www.air-up.com/) is a product company that revolutionises the way we drink water by
+[Air up](https://www.air-up.com) (funded in 2018) is a product company that revolutionises the way we drink water by
 infusing it with scents. I was hired as an engineering lead on Bubbles team and was tasked with helping to migrate
 heavily customised, untested ERP system (Odoo) into set of maintainable Kotlin/http4k microservices. In the period of
 4 months, without any production incidents, the team had successfully migrated EDI integrations of four warehouses from
