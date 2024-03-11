@@ -11,7 +11,6 @@ and value delivery without compromising on quality. Here are some details of pre
 
 ---
 
-
 ### ERP AND FULFILMENT – AIR UP
 _June 2023 - present_
 
