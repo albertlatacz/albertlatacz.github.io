@@ -11,6 +11,24 @@ and value delivery without compromising on quality. Here are some details of pre
 
 ---
 
+
+### ERP AND FULFILMENT – AIR UP
+_June 2023 - present_
+
+{: .text-justify}
+Air up (funded in 2018, https://www.air-up.com/) is a product company that revolutionises the way we drink water by
+infusing it with scents. I was hired as an engineering lead on Bubbles team and was tasked with helping to migrate
+heavily customised, untested ERP system (Odoo) into set of maintainable Kotlin/http4k microservices. In the period of
+4 months, without any production incidents, the team had successfully migrated EDI integrations of four warehouses from
+legacy codebase into fully tested, monitored and observable microservices. I then moved onto leading new warehouse
+migration in United States (Radial to XB) which had been delivered 2 months ahead of schedule and achieved cost saving
+of $1.2M. Additionally I had been driving the efforts to shape service and tooling infrastructure, testability, and
+maintainability of new codebase. I promoted best development practices such as use of mono-repository, trunk-based development,
+continuous delivery with short lead times (<15 mins), shift-left engineering, automatic documentation, strict value
+typing as well as upskilled other team members versed in Python in writing testable and maintainable Kotlin code.
+
+---
+
 ### EQUITY RISK PLATFORM - CITI
 _November 2021 - June 2023_
 
